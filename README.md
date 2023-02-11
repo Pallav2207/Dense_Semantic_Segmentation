@@ -1,2 +1,1 @@
-# Dense_Semantic_Segmentation
-Deep Learning : Semantic Segmentation of Arial imagery post Flood
+# Hurricane Harvey || Deep Learning  Challenge : Semantic Image Segmentation of Aerial Imagery
